@@ -1,5 +1,5 @@
 ![](http://assets.jisho.org/assets/jisho-logo-v4@2x-7330091c079b9dd59601401b052b52e103978221c8fb6f5e22406d871fcc746a.png)
-# JishoElixir
+# JishoElixir [![Hex pm](http://img.shields.io/hexpm/v/jisho_elixir.svg?style=flat)](https://hex.pm/packages/httpoison)
 
 A wrapper around Jisho.org's API (http://jisho.org).
 
